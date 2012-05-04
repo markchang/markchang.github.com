@@ -18,7 +18,7 @@ p {
 }
 h1 {
 	font-size:48pt;
-	font-weight:100;
+	font-weight:300;
 	line-height:60pt;
 }
 p a {
@@ -94,7 +94,7 @@ span.rnd {
 	height: 1200px;
 	padding: 120px 0 0 0;
 }
-/*#home h1, #home h2, #home p, #home a {color: black;}*/
+#home p a {color: #3366FF; text-decoration: none;}
 
 #second {
 	background: url(../assets/shock.png) 50% 0 no-repeat fixed;

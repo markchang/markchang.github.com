@@ -89,49 +89,54 @@ span.rnd {
 
 /* pages */
 #home {
-	background:url(../assets/1_bg.jpg) 50% -100px no-repeat fixed;
+	background:url(../assets/tie.png) 50% -100px no-repeat fixed;
 	color: white;
-	height: 1440px;
+	height: 1200px;
 	padding: 120px 0 0 0;
 }
 /*#home h1, #home h2, #home p, #home a {color: black;}*/
 
 #second {
-	background: url(../assets/2_bg.jpg) 50% 0 no-repeat fixed;
+	background: url(../assets/shock.png) 50% 0 no-repeat fixed;
 	color: white;
-	height: 1440px;
+	height: 1200px;
+	margin: 0 auto;
+	overflow:hidden;
+	padding: 0;
+}
+#second a {color: #336699;}
+
+#third {
+	background: url(../assets/tarmac.png) 50% 0 no-repeat fixed;
+	color: white;
+	height: 1200px;
 	margin: 0 auto;
 	overflow:hidden;
 	padding: 0;
 }
 
-#third {
-	background: url(../assets/3_bg.jpg) 50% 0 no-repeat fixed;
-	color: white;
-	height: 1440px;
-	margin: 0 auto;
-	overflow:hidden;
-	padding: 0;
-
-/*	background: #333;
-	height: 1200px;
-	margin: 0 auto;
-	padding: 0;
-*/}
-
 #fourth {
-	background: url(../assets/3_bg.jpg) 50% 0 no-repeat fixed;
+	background: url(../assets/arcify.png) 50% 0 no-repeat fixed;
 	color: white;
-	height: 1440px;
+	height: 1600px;
 	margin: 0 auto;
 	overflow:hidden;
 	padding: 0;
 }
 
 #fifth {
+	background: url(../assets/omnisphere.png) 50% 0 no-repeat fixed;
+	color: white;
+	height: 1600px;
+	margin: 0 auto;
+	padding: 0;
+}
+
+/*
+#fifth {
 	background: #8c31b7;
 	height: 800px;
 	margin: 0 auto;
 	padding: 0;
 }
-
+*/

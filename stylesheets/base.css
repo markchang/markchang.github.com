@@ -52,6 +52,7 @@
 ================================================== */
 	body {
 		background: #fff;
+		/*background-image:url(retina_wood.png); background-repeat:repeat;*/
 		font: 14px/21px 'Lato', sans-serif;;
 		color: #444;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
